@@ -1,3 +1,6 @@
 {
     "exclude": ["node_modules", ".nuxt", "dist"],
+    "compilerOptions": {
+        "allowJs": true
+      }
 }

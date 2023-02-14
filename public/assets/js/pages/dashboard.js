@@ -1,6 +1,5 @@
 function initDashboard()
-{
-  var optionsProfileVisit = {
+{var optionsProfileVisit = {
   annotations: {
     position: "back",
   },
